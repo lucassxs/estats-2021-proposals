@@ -1,9 +1,8 @@
 ---
 title: "Propostas DAC- 2021"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, PBC"
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+author: "Lucas Stefano"
+institute: "Estats Consultoria"
+date: "2021/12/12"
 output:
   xaringan::moon_reader:
     lib_dir: libs
